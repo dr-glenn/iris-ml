@@ -7,6 +7,8 @@
 # http://www.lac.inpe.br/~rafael.santos/Docs/R/CAP394/WholeStory-Iris.html
 # colormaps: winter is nice.
 
+# The jupyter notebook is more recent.
+
 import matplotlib.pyplot as plt
 import pandas as pd
 
